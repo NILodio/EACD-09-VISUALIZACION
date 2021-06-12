@@ -12,7 +12,7 @@
 
 ### Ejercicio-1
 
-![Image](Ejercicio1.png?raw=true)
+![Image](img/Ejercicio1.png?raw=true)
 
 Salary vs. Performance Baseball teams
 
@@ -25,22 +25,29 @@ Variables cuantitativas
 Salario: Eje Y
 
 ### Ejercicio-2
-![Image](Ejercicio2.png?raw=true)
+![Image](img/Ejercicio2.png?raw=true)
 
 
 ---------------------------------------------------------------------------------
 ### Ejercicio-3
-![Image](Ejercicio3.png?raw=true)
+![Image](img/Ejercicio3.png?raw=true)
 
 
 ---------------------------------------------------------------------------------
 ### Ejercicio-4
-![Image](Ejercicio3.png?raw=true)
-
+![Image](img/Ejercicio-4-1.png?raw=true)
+![Image](img/Ejercicio-4-2.png?raw=true)
+![Image](img/Ejercicio-4-3.png?raw=true)
+![Image](img/Ejercicio-4-4.png?raw=true)
+![Image](img/Ejercicio-4-5.png?raw=true)
+![Image](img/Ejercicio-4-6.png?raw=true)
+![Image](img/Ejercicio-4-7.png?raw=true)
+![Image](img/Ejercicio-4-8.png?raw=true)
+![Image](img/Ejercicio-4-9.png?raw=true)
 
 ---------------------------------------------------------------------------------
 ### Ejercicio-5
-![Image](Ejercicio5.jpg?raw=true)
+![Image](img/Ejercicio5.jpg?raw=true)
 
 ---------------------------------------------------------------------------------
 
