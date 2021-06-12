@@ -13,17 +13,18 @@
 ![Image](Ejercicio2.png?raw=true)
 
 Resumen
-![Image](Ejercicio2.png?raw=true)
+
+![Image](Ejercicio3.png?raw=true)
 
 ---------------------------------------------------------------------------------
 
 - Detección de Hoja
-![Image](Ejercicio2.png?raw=true)
+![Image](Ejercicio4.png?raw=true)
 
 ---------------------------------------------------------------------------------
 
 
-![Image](Ejercicio2.png?raw=true)
+![Image](Ejercicio5.png?raw=true)
 
 
 
