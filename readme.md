@@ -35,14 +35,26 @@ Salario: Eje Y
 
 ---------------------------------------------------------------------------------
 ### Ejercicio-4
+´´´data/lifeplane.csv´´´
+
+Notebooks/Ejercicio4
+
+- Caracterizacion de problema 
 ![Image](img/Ejercicio-4-1.png?raw=true)
+- Tipos de modelo de avión donde muestra la cantidad de muertes por año
 ![Image](img/Ejercicio-4-2.png?raw=true)
+- Numero de ocurrencias por país
 ![Image](img/Ejercicio-4-3.png?raw=true)
+- Numero de ocurrencias   según tipo (Accidente/incidente) X año
 ![Image](img/Ejercicio-4-4.png?raw=true)
-![Image](img/Ejercicio-4-5.png?raw=true)
+
+-Cantidad de accidentes fatales según años de operación 
 ![Image](img/Ejercicio-4-6.png?raw=true)
+-Cantidad de daños descuerdo al fabricante
 ![Image](img/Ejercicio-4-7.png?raw=true)
+-Accidentes fatales si el avión es operaciones o no 
 ![Image](img/Ejercicio-4-8.png?raw=true)
+-Tiempo de vida medio según fabricantes
 ![Image](img/Ejercicio-4-9.png?raw=true)
 
 ---------------------------------------------------------------------------------
