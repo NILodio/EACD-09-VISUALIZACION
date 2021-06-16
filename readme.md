@@ -97,14 +97,16 @@ Notebooks/Ejercicio4.ipynb
 </p>
 
 - Tiempo de vida medio según fabricantes
-<<<<<<< HEAD
-![Image](img/Ejercicio-4-9.png?raw=true)
-- Operacion promedio
-![Image](img/Ejercicio-4-10.png?raw=true)
-=======
 
 <p align="center">
   <img src="img/Ejercicio-4-9.png?raw=true" alt="Sublime's custom image"/ width="2000">
+</p>
+
+- Operacion promedio
+
+
+<p align="center">
+  <img src="img/Ejercicio-4-10.png?raw=true" alt="Sublime's custom image"/ width="2000">
 </p>
 
 ### Descripción
