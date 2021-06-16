@@ -61,7 +61,11 @@ Notebooks/Ejercicio4.ipynb
 ![Image](img/Ejercicio-4-8.png?raw=true)
 - Tiempo de vida medio según fabricantes
 ![Image](img/Ejercicio-4-9.png?raw=true)
+- Operacion promedio
+![Image](img/Ejercicio-4-10.png?raw=true)
 
+
+Ejercicio-4-10
 ---------------------------------------------------------------------------------
 ### Ejercicio-5
 ![Image](img/Ejercicio5.jpg?raw=true)
