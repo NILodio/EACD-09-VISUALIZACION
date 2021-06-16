@@ -116,14 +116,25 @@ Notebooks/Ejercicio4.ipynb
 - la gráfica de accidentes vs incidentes a lo largo de tiempo muestra una estabilidad hasta principios de 2005, sin embargo, después de este periodo de tiempo mientras la ocurrencia en los accidentes es estable, el reporte del número de incidentes crece hasta alcanzar un pico y luego ambos comportamientos caen, lo que parece indicar que en este rango de tiempo hubo una etapa de aprendizaje en la industria aeronautica importante que disminuyó los riesgos 
 
 
->>>>>>> ce0fce6c0c7d3abc55a129ccb6e20c8584f381c1
-
-
-Ejercicio-4-10
 ---------------------------------------------------------------------------------
 ### Ejercicio-5
-![Image](img/Ejercicio5.jpg?raw=true)
 
+<p align="center">
+  <img src="img/Ejercicio5.png?raw=true" alt="Sublime's custom image"/ width="2000">
+</p>
 ---------------------------------------------------------------------------------
 
+### Ejercicio-6
 
+<p align="center">
+  <img src="img/Ejercicio6.png?raw=true" alt="Sublime's custom image"/ width="2000">
+</p>
+
+---------------------------------------------------------------------------------
+### Ejercicio-7
+
+<p align="center">
+  <img src="img/Ejercicio-7.png?raw=true" alt="Sublime's custom image"/ width="2000">
+</p>
+
+---------------------------------------------------------------------------------

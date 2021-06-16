@@ -1,0 +1,52 @@
+[
+   {
+      "Opinion":"Bored",
+      "When":"Before",
+      "Percentage":11
+   },
+   {
+      "Opinion":"Not great",
+      "When":"Before",
+      "Percentage":5
+   },
+   {
+      "Opinion":"Ok",
+      "When":"Before",
+      "Percentage":40
+   },
+   {
+      "Opinion":"Kind of interested",
+      "When":"Before",
+      "Percentage":25
+   },
+   {
+      "Opinion":"Excited",
+      "When":"Before",
+      "Percentage":19
+   },
+   {
+      "Opinion":"Bored",
+      "When":"After",
+      "Percentage":12
+   },
+   {
+      "Opinion":"Not great",
+      "When":"After",
+      "Percentage":6
+   },
+   {
+      "Opinion":"Ok",
+      "When":"After",
+      "Percentage":14
+   },
+   {
+      "Opinion":"Kind of interested",
+      "When":"After",
+      "Percentage":30
+   },
+   {
+      "Opinion":"Excited",
+      "When":"After",
+      "Percentage":38
+   }
+]
