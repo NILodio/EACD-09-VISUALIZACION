@@ -1,4 +1,4 @@
-# Monografía – Especialización en Analítica y ciencia de datos
+# Especialización en Analítica y ciencia de datos
 ## Visualizacion:
 ---------------------------------------------------------------------------------
 ## Presentado por:
@@ -120,14 +120,14 @@ Notebooks/Ejercicio4.ipynb
 ### Ejercicio-5
 
 <p align="center">
-  <img src="img/Ejercicio5.png?raw=true" alt="Sublime's custom image"/ width="2000">
+  <img src="img/Ejercicio5.jpg?raw=true" alt="Sublime's custom image"/ width="2000">
 </p>
 ---------------------------------------------------------------------------------
 
 ### Ejercicio-6
 
 <p align="center">
-  <img src="img/Ejercicio6.png?raw=true" alt="Sublime's custom image"/ width="2000">
+  <img src="img/Ejercicio-6.png?raw=true" alt="Sublime's custom image"/ width="2000">
 </p>
 
 ---------------------------------------------------------------------------------
