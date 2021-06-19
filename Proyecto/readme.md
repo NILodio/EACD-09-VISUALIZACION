@@ -9,11 +9,15 @@
 
 ### FIFA 2020
 
-## PROBLEMA
+## PROBLEMA 
 
-Nuestro propósito es generar una aplicación analítica acerca de los jugadores de fútbol que tienen mejores cualidades deportivas y tienen gran proyección en su valorización en el mercado. También por que es necesario tomar conciencia de cuáles son aquellos parámetros claves que me brindarán las respuestas adecuadas a la situación planteada; es decir, a través de qué medidas puedo identificar cuál jugador será el más apto como atacante y si tiene potencial de valorizarse de manera que lo pueda vender mucho más caro versus el costo de la compra, de manera que asegure ganancias para el club. 
+Nuestro propósito es generar una aplicación analítica acerca de los jugadores de fútbol que tienen mejores cualidades deportivas y tienen gran proyección en su valorización en el mercado. También por que es necesario tomar conciencia de cuáles son aquellos parámetros claves que me brindarán las respuestas adecuadas a la situación planteada; es decir, a través de qué medidas puedo identificar cuál jugador será el más apto como atacante y si tiene potencial de valorizarse de manera que lo pueda vender mucho más caro versus el costo de la compra, de manera que asegure ganancias para el club.
 
-Dado que el flujo de jugadores nuevos, lesiones, salidas de jugadores viejos e incremento en habilidades es alto, la base de datos debe actualizarse regularmente; en este caso puede tomarse cada temporada o anual, según la disposición de la base de datos.
+### Caracterización del problema
+
+- [miro](https://miro.com/app/board/o9J_l-x9y5g=/)
+
+- Dado que el flujo de jugadores nuevos, lesiones, salidas de jugadores viejos e incremento en habilidades es alto, la base de datos debe actualizarse regularmente; en este caso puede tomarse cada temporada o anual, según la disposición de la base de datos.
 
 
 ### Proceso de diseño y la justificación del mismo
