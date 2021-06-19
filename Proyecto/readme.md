@@ -34,7 +34,7 @@ Dada la premisa que se plantea líneas  atrás y sumándose al hecho de que la e
 Como resultado, se obtienen gráficas muy explícitas donde se observa una curva de crecimiento en la valorización y aptitudes físicas alcanzando un máximo a los 28 años y luego de dicha edad los valores decrecen, por lo que en mi criterio de negocio con el fin de obtener un margen de crecimiento a mi posible comprador en un futuro, estableceré que mis rangos de edades de interés se centrarán en jugadores entre los 15 y los 25 años. Es así que termina este análisis inicial con una tabla que toma los jugadores que se ajustan a mi selección de edad y los ordena por dos criterios; habilidades de juego (calificación de 1 a 5, siendo 5 el máximo puntaje) de mayor a menor y precio del jugador ordenado de menor a mayor, de manera que para la selección de los mejores jugadores sea muy claro que aquellos que aparecen en los primeros lugares son los de mayor interés.
 
 <p align="center">
-  <img src="img/VisualizaciónCaracterísticasGlobales.PNG?raw=true" alt="Sublime's custom image"/ width="500">
+  <img src="img/VisualizaciónCaracterísticasGlobales.PNG?raw=true" alt="Sublime's custom image"/ width="1000">
 </p>
 
 
@@ -48,7 +48,32 @@ Finalmente, entendiendo que si bien las visualizaciones guían al usuario para e
 
 
 <p align="center">
-  <img src="img/VisualizaciónCaracterísticasEspecíficas.PNG?raw=true" alt="Sublime's custom image"/ width="500">
+  <img src="img/VisualizaciónCaracterísticasEspecíficas.PNG?raw=true" alt="Sublime's custom image"/ width="1000">
 </p>
 
 
+## Pasos Ejecución Prototipo en Power BI
+
+#### DataSet
+
+```
+Proyecto\Data\players_20 - players_20.csv
+
+```
+
+#### Power Bi
+
+```
+Proyecto\Dashboard\__init__.py
+
+```
+
+1.	Ir a la pestaña campos ubicada al lado derecho de las visualizaciones
+2.	Dar click a los tres puntos que indican más opciones
+3.	Seleccionar editar consulta
+4.	Se abre una nueva pestaña y al lado derecho hay una sección denominada “Pasos aplicados”
+5.	Ubicar piñón al lado derecho de Source y en “Ruta de acceso de archivo” seleccionar la ruta que desee
+
+<p align="center">
+  <img src="img/cambioruta.png?raw=true" alt="Sublime's custom image"/ width="500">
+</p>
