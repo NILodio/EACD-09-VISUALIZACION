@@ -54,7 +54,7 @@ Finalmente, entendiendo que si bien las visualizaciones guían al usuario para e
 
 ## Pasos Ejecución Prototipo en Power BI
 
-#### DataSet
+#### Dataset
 
 ```
 Proyecto\Data\players_20 - players_20.csv
@@ -75,5 +75,5 @@ Proyecto\Dashboard\DashboardVisualización.pbix
 5.	Ubicar piñón al lado derecho de Source y en “Ruta de acceso de archivo” seleccionar la ruta que desee
 
 <p align="center">
-  <img src="img/cambioruta.png?raw=true" alt="Sublime's custom image"/ width="500">
+  <img src="img/cambioruta.png?raw=true" alt="Sublime's custom image"/ width="800">
 </p>
