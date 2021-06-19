@@ -64,7 +64,7 @@ Proyecto\Data\players_20 - players_20.csv
 #### Power Bi
 
 ```
-Proyecto\Dashboard\__init__.py
+Proyecto\Dashboard\DashboardVisualización.pbix
 
 ```
 
