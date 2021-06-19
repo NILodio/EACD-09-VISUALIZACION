@@ -33,6 +33,10 @@ Dada la premisa que se plantea líneas  atrás y sumándose al hecho de que la e
 
 Como resultado, se obtienen gráficas muy explícitas donde se observa una curva de crecimiento en la valorización y aptitudes físicas alcanzando un máximo a los 28 años y luego de dicha edad los valores decrecen, por lo que en mi criterio de negocio con el fin de obtener un margen de crecimiento a mi posible comprador en un futuro, estableceré que mis rangos de edades de interés se centrarán en jugadores entre los 15 y los 25 años. Es así que termina este análisis inicial con una tabla que toma los jugadores que se ajustan a mi selección de edad y los ordena por dos criterios; habilidades de juego (calificación de 1 a 5, siendo 5 el máximo puntaje) de mayor a menor y precio del jugador ordenado de menor a mayor, de manera que para la selección de los mejores jugadores sea muy claro que aquellos que aparecen en los primeros lugares son los de mayor interés.
 
+<p align="center">
+  <img src="img/VisualizaciónCaracterísticasGlobales.PNG?raw=true" alt="Sublime's custom image"/ width="500">
+</p>
+
 
 ### Características específicas para seleccionar un buen prospecto como atacante
 
@@ -41,4 +45,10 @@ Hasta el punto anterior, dejamos establecido como seleccionar al mejor prospecto
 Por lo tanto, tomamos como input el resultado que se obtiene del análisis anterior y es filtrar los jugadores por su edad entre los 15 y 25 años, luego se revisan varios gráficos donde se resalta la correlación encontrada entre la variable llamada attacking_finishing, attacking_volleys y attacking_heading_accuracy, del cual es fácil inferir que mientras mayor sea el valor de attacking_finishing, mayor capacidad tendrá en todas las demás variables para perfilar al jugador como excelente atacante. Con todo lo anterior y de manera similar a la visualización anterior, se genera una tabla dinámica que ordena a los jugadores con los criterios seleccionados y de acuerdo a su mejor puntaje en habilidades de juego y su precio de venta de menor a mayor valor.
 
 Finalmente, entendiendo que si bien las visualizaciones guían al usuario para escoger al mejor jugador, también permite explorar diferentes escenarios donde pueda modificar la edad, nacionalidad y diferentes puntos en las correlaciones en el cual se pueda explorar de manera rápida las opciones disponibles.
+
+
+<p align="center">
+  <img src="img/VisualizaciónCaracterísticasEspecíficas.PNG?raw=true" alt="Sublime's custom image"/ width="500">
+</p>
+
 
